@@ -1,10 +1,12 @@
 
 <h2 align="left">Hi 👋! My name is  Preethi and I'm an Aspiring Web developer.</h2>
 
+[![](https://visitcount.itsvg.in/api?id=preethitapati&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 ## 💫 About Me:
 🔭 I’m currently working on NetFlixGPT Project Daily Coding<br><br>🏫 I’m enhancing my proficiency in React.js through practical application 
 and project-based learning to elevate my professional skills.<br><br>🔎 I’m looking to collaborate on an open-source Project<br><br>💻 Some of my projects are available at My Portfolio<br><br>💻 All of my projects are available at My Github profile<br><br>💬 Ask me about web Development<br><br>💗 Love to talk about Research and Innovation!
+
 
 
 ## 🌐 Socials:
@@ -18,17 +20,20 @@ and project-based learning to elevate my professional skills.<br><br>🔎 I’m 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preethitapati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preethitapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preethitapati&limit=5&theme=onestar&combine_all_yearly_contributions=true)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=preethitapati&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 

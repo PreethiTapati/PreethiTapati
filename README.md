@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=preethitapati&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 ## 💫 About Me:
-🔭 I’m currently working on NetFlixGPT Project Daily Coding<br><br>🏫 I’m enhancing my proficiency in React.js through practical application 
+🔭 I’m currently working on NetFlixGPT Project Coding <br><br>🏫 I’m enhancing my proficiency in React.js through practical application 
 and project-based learning to elevate my professional skills.<br><br>🔎 I’m looking to collaborate on an open-source Project<br><br>💻 Some of my projects are available at My Portfolio<br><br>💻 All of my projects are available at My Github profile<br><br>💬 Ask me about web Development<br><br>💗 Love to talk about Research and Innovation!
 
 
